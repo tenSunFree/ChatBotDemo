@@ -15,7 +15,6 @@ https://dialogflow.com/
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/qrpUJwG.jpg" width="260"/>
-  <img src="https://i.imgur.com/Y4EAlel.jpg" width="260"/>
+  <img src="https://i.imgur.com/QLaLFa7.jpg" width="260"/>
+  <img src="https://i.imgur.com/k9GM59h.jpg" width="260"/>
 </p>  
-
